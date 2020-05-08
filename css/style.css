@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+}
+.fa {
+    padding: 50px;
+    font-size: 50px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 4px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.9;
+  }
+.fa-facebook {
+    color: #3B5998;
+  }
+  .fa-youtube {
+    color:red;
+  }
+  .fa-snap {
+      color: yellow;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
